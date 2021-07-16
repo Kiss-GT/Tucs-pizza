@@ -229,6 +229,9 @@ to{
 	body{
 		overflow-x: hidden;
 	}
+	.nav{
+		font-size: 5rem;
+	}
 
 	.nav-links{
 		position: fixed;
@@ -257,6 +260,10 @@ to{
 	.void{
 		display: block;
 		width: 80%;
+	}
+	.logo{
+		height:300px;
+		width: 300px;
 	}
 	
 }
