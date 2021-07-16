@@ -97,9 +97,9 @@ nav{
 	width: 100%;
 }
 .burger div {
-	width: 25px;
+	width: 45px;
 	height: 2px;
-	margin: 5px;
+	margin: 10px;
 	background-color: #eee;
 }
 .burger{
@@ -263,7 +263,7 @@ to{
 	}
 	.logo{
 		height:300px;
-		width: 300px;
+		width: 350px;
 	}
 	
 }
