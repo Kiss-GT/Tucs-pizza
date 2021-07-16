@@ -325,6 +325,8 @@ transform: rotate(45deg) translate(-5px, -6px);
 }
 .item{
 	transition: .5s ease-in-out;
+	max-height: 300px;
+	object-fit: cover;
 }
 .item:hover{
 	filter: brightness(80%);
