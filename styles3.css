@@ -78,7 +78,7 @@ a{
 nav{
 	/* padding-top: 40rem; 
 	padding-right: 40rem;*/
-	top:10%;
+	top:15%;
 	left:10%;
 	display: flex;
 	justify-content: space-around;
@@ -88,6 +88,7 @@ nav{
 	border-bottom: 1.5px solid rgba(255,255,255, .1);
 	min-height: 8vh;
 	position: fixed;
+	z-index: 1000;
 	
 }
 .nav-links{
@@ -325,7 +326,7 @@ transform: rotate(45deg) translate(-5px, -6px);
 }
 .item{
 	transition: .5s ease-in-out;
-	max-height: 300px;
+	max-height: 350px;
 	object-fit: cover;
 }
 .item:hover{
