@@ -224,7 +224,7 @@ to{
 }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1118px){
 
 	body{
 		overflow-x: hidden;
@@ -249,7 +249,9 @@ to{
 		display: block;
 		cursor: pointer;
 		position:absolute;
-		left: 250%;
+		left: 300%;
+		z-index: 2500;
+		
 		
 	}
 	.void{
