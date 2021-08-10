@@ -341,4 +341,26 @@ transform: rotate(45deg) translate(-5px, -6px);
 .item:hover{
 	filter: brightness(80%);
 }
+.soon{
+	height:50vh;
+	position:absolute;
+	display: flex;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	
+	
+	margin: auto;
+	
+}
+.soon-img{
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+	top: 0;
+	bottom: 0;
+	
+}
+
   
