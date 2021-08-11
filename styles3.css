@@ -23,7 +23,7 @@ body {
 	width: 100%;
 	height: 1000px;
 	margin: 0;
-	background: #CCC;
+	
 	
 }
 a{
@@ -230,7 +230,7 @@ to{
 		overflow-x: hidden;
 	}
 	.nav{
-		font-size: 5rem;
+		font-size: 75px;
 	}
 
 	.nav-links{
@@ -341,26 +341,54 @@ transform: rotate(45deg) translate(-5px, -6px);
 .item:hover{
 	filter: brightness(80%);
 }
+#Pizza {
+	top:150px;
+}
+.pizza-menu{
+	
+	font-size: medium;
+	margin: 0 50px;
+	
+
+}
+
+div.opacity{
+	opacity: 0.8;
+}
+div.opcaity:hover{
+	opacity:1.0;
+}
+#menu-top{
+	height: 100px;
+}
+.soon-section{
+	position:relative;
+	height: 90vh;
+}
 .soon{
 	height:50vh;
+	width: 50vh;
 	position:absolute;
-	display: flex;
+	display: inline-block;
 	right: 0;
 	left: 0;
 	top: 0;
 	bottom: 0;
-	
-	
+	align-items: center;
+	justify-content: center;
 	margin: auto;
 	
 }
 .soon-img{
 	display: block;
-	width: 50%;
-	margin: 0 auto;
-	top: 0;
-	bottom: 0;
-	
+	width: 250px;	
+}
+.soon-text{
+	display: block;
+	padding-top: 10px;
+	font-family: 'Parisienne', cursive;
+	font-size: 50px;
+	font-weight: bold;
 }
 
   
