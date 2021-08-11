@@ -366,8 +366,8 @@ div.opcaity:hover{
 	height: 90vh;
 }
 .soon{
-	height:50vh;
-	width: 50vh;
+	height:50%;
+	width: 50%;
 	position:absolute;
 	display: inline-block;
 	right: 0;
