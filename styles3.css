@@ -381,12 +381,16 @@ div.opcaity:hover{
 }
 .soon-img{
 	display: block;
-	width: 250px;	
+	width: 250px;
+	margin:0 auto;	
 }
 .soon-text{
 	display: block;
 	padding-top: 10px;
+	padding-left: 40px;
 	font-family: 'Parisienne', cursive;
 	font-size: 50px;
 	font-weight: bold;
+	margin:0 auto;
+	width: 350px;
 }
